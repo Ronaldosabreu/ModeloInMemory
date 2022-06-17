@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Simulacao.Data/1.0.0": {
+        "dependencies": {
+          "Simulacao.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Simulacao.Data.dll": {}
+        }
+      },
+      "Simulacao.Domain/1.0.0": {
+        "runtime": {
+          "Simulacao.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Simulacao.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Simulacao.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
